@@ -1,0 +1,2 @@
+# rpgMakerPluginRequests
+RPGツクールを想定したプラグインの要望を投げると、時間があるときに作ってくれるようです。
